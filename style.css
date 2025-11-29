@@ -113,7 +113,6 @@ html {
 .services_img {
     max-width: 25vw;
     margin-left: 5vw;
-    height: 55vh;
     padding-top: 4vh;
 }
 
@@ -143,4 +142,5 @@ html {
 .connect-button:hover {
     /* Optional: change style on hover for interactivity */
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); 
+
 }
