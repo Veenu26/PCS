@@ -52,7 +52,6 @@ html {
 
 .con3 {
     display: flex;
-    padding-bottom: 8vh;
 }
 
 .what_we_do_img {
@@ -80,7 +79,7 @@ html {
 
 .why_pcs_con1 {
     display: flex;
-    padding-bottom: 8vh;
+    padding-bottom: 4vh;
 }
 
 .why_pcs {
@@ -107,7 +106,6 @@ html {
 
 .services_main_con {
     display: flex;
-    padding-bottom: 10vh;
 }
 
 .services_img {
@@ -144,3 +142,4 @@ html {
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); 
 
 }
+
