@@ -31,7 +31,7 @@ html {
 
 .title1 {
     color: white;
-    font-size: 3.5vw;
+    font-size: xxx-large;
     font-weight: bold;
     padding-bottom: 0;
     margin-bottom: 0;
@@ -143,5 +143,6 @@ html {
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); 
 
 }
+
 
 
