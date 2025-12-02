@@ -133,17 +133,33 @@ html {
 
 .services_main_con {
     display: flex;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 480px) {
+    .services_main_con {
+        flex-direction: column;
+        /* Stacks items vertically on mobile */
+    }
+
+}
+
+.services_img_con {
+    padding-left: 2%;
+    padding-top: 0;
+    flex-basis: 30%;
 }
 
 .services_img {
-    max-width: 25vw;
-    margin-left: 5vw;
-    padding-top: 4vh;
+    max-width: 100%;
+    padding-top: 5%;
 }
 
 .services_con {
-    padding-left: 4vw;
+    padding: 2%;
+    padding-top: 0;
     margin-right: 2%;
+    flex-basis: 70%;
 }
 
 .services_con_h {
@@ -169,6 +185,7 @@ html {
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); 
 
 }
+
 
 
 
