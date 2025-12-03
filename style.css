@@ -41,6 +41,7 @@ html {
 .p1 {
     color: white;
     font-size: large;
+    text-align: center;
 }
 
 .title2 {
@@ -184,6 +185,7 @@ html {
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); 
 
 }
+
 
 
 
